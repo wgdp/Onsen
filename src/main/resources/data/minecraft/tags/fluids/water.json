@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "onsen:onsen_water_fluid",
+    "onsen:flowing_onsen_water"
+  ]
+}
